@@ -1,0 +1,12 @@
+{"name":"<b:tags>",
+"short_name":"<b:tags>",
+"icons":[
+    {"src":"https://3.bp.blogspot.com/-em9xZABQ_io/XqZzlT9uP2I/AAAAAAAAAO8/T1cxqnqU9w03IJuk0RIxbj8VPilQKSLygCLcBGAsYHQ/s1600/android-chrome-192x192.png",
+    "sizes":"192x192",
+    "type":"image/png"},
+    {"src":"https://4.bp.blogspot.com/-YmEzanBkkdM/XqZzlWhHK7I/AAAAAAAAAO0/1ek8H8uwc4oy74o8bawL9GEjc2Bcs7oVwCLcBGAsYHQ/s1600/android-chrome-512x512.png",
+    "sizes":"512x512",
+    "type":"image/png"}],
+"theme_color":"#0f4c81",
+"background_color":"#0f4c81",
+"display":"standalone"}
